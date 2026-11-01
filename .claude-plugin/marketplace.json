@@ -1,0 +1,8 @@
+{
+  "name": "lessons-db",
+  "description": "Marketplace for the lessons-db skill",
+  "owner": { "name": "Isaiah Brooks" },
+  "plugins": [
+    { "name": "lessons-db", "description": "Per-repo review ledger: one row per confirmed defect with root cause and prevention rule, a section per review, round artefacts committed to docs/reviews/, rules read before similar work", "version": "0.1.0", "source": "./", "author": { "name": "Isaiah Brooks" } }
+  ]
+}

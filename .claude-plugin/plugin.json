@@ -1,0 +1,10 @@
+{
+  "name": "lessons-db",
+  "description": "Keeps a per-repo review ledger (LESSONS-DB.md): every confirmed defect with its root cause and the prevention rule it taught, plus the review artefacts committed under docs/reviews/. Read before similar work starts.",
+  "version": "0.1.0",
+  "author": { "name": "Isaiah Brooks" },
+  "homepage": "https://github.com/zayvillion-dot/lessons-db",
+  "repository": "https://github.com/zayvillion-dot/lessons-db",
+  "license": "MIT",
+  "keywords": ["skills", "code-review", "ledger", "lessons-learned", "root-cause"]
+}
