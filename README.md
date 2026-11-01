@@ -1,5 +1,7 @@
 # Lessons DB
 
+![lessons-db](assets/social-preview.png)
+
 A Claude Code skill for the moment a review round closes. `LESSONS-DB.md` at the repo root is a running database of confirmed defects, each with its root cause and the one-line prevention rule it taught, plus the review artefacts that produced them. Without the skill, the agent leaves review output in chat, summarises defects with no root cause or rule, and never looks at prior lessons.
 
 Use it when a review round confirms or refutes findings, a review, audit or test pass is about to close, work starts in an area that has been reviewed before, you say "ledger it", "lessons db" or "what did we learn last time", or invoke `/lessons-db`.
